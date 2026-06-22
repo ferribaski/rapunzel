@@ -1,3 +1,12 @@
 body
 {background-color: rgb(216, 130, 253);
  text-align: center;}
+
+ h1 
+ {font-style: italic;
+color: rgb(7, 0, 7);
+font-size: larger;}
+
+h4
+{color: rgb(112, 17, 153);
+font-weight:200;}
