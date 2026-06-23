@@ -20,3 +20,6 @@ h3, h4 {margin-bottom: 0%;}
 p {margin-top: 0%;}
 div {margin-top: 0%;}
 li {margin-top: 0%;}
+
+.lista {display: flex;
+gap: 40px;}
